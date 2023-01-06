@@ -1,0 +1,13 @@
+body{
+    background-color: lightpink;
+}
+
+.vermelho{
+    color: red;
+    font-weight: bold;
+    font-size : 12px;
+}
+#verde{
+    color: green;
+    font-size: italic;
+}
